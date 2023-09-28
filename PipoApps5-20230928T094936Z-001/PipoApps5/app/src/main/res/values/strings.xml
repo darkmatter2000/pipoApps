@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PipoApps5</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_petude">PEtude</string>
+    <string name="menu_pmaps">PMaps</string>
+    <string name="menu_pnews">PNews</string>
+    <string name="menu_pshop">PShop</string>
+    <string name="menu_ptime">PTime</string>
+
+    <string name="menu_partager">Partager</string>
+    <string name="menu_parametres">Paramétres</string>
+    <string name="menu_aide">Aide</string>
+    <string name="menu_apropos">À propos</string>
+    <string name="title_activity_acceuil_pipo_shop">AcceuilPipoShop</string>
+
+    <string name="tab_etude">Etude</string>
+    <string name="tab_tech">Tech.</string>
+    <string name="tab_logandmob">Log. and Mob. </string>
+    <string name="tab_swag">Swag</string>
+    <string name="tab_me">Me</string>
+
+</resources>
